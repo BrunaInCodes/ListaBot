@@ -1,1 +1,13 @@
+{
+  "name": "listabot-chat",
+  "version": "0.0.1",
+  "description": "Chat web do ListaBot - assistente da Lista de Compras",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
 
