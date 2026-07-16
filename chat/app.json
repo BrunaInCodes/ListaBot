@@ -1,1 +1,22 @@
-
+{
+  "name": "ListaBot-Chat",
+  "description": "Assistente de atendimento da Lista de Compras",
+  "website": "https://github.com/socketio/chat-example",
+  "repository": "https://github.com/socketio/chat-example",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
